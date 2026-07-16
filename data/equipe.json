@@ -1,1 +1,22 @@
-
+[
+  {
+    "id": 1,
+    "nome": "Albert Lima",
+    "funcao": "Coordenação Geral"
+  },
+  {
+    "id": 2,
+    "nome": "João",
+    "funcao": "Chef Executivo"
+  },
+  {
+    "id": 3,
+    "nome": "Maria",
+    "funcao": "Coordenação Sushi"
+  },
+  {
+    "id": 4,
+    "nome": "Carlos",
+    "funcao": "Coordenação Buffet"
+  }
+]
