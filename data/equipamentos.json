@@ -1,1 +1,32 @@
-
+[
+  {
+    "nome": "Fogão Industrial",
+    "quantidade": 2,
+    "status": "Disponível"
+  },
+  {
+    "nome": "Fritadeira",
+    "quantidade": 6,
+    "status": "Disponível"
+  },
+  {
+    "nome": "Geladeira",
+    "quantidade": 2,
+    "status": "Disponível"
+  },
+  {
+    "nome": "Freezer",
+    "quantidade": 2,
+    "status": "Disponível"
+  },
+  {
+    "nome": "Geladeira Expositora",
+    "quantidade": 5,
+    "status": "Alugar"
+  },
+  {
+    "nome": "Panela de Arroz para Sushi",
+    "quantidade": 2,
+    "status": "Comprar"
+  }
+]
